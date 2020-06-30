@@ -10,4 +10,5 @@ Game Image
 
 ![ezgif com-resize (6)](https://user-images.githubusercontent.com/45388041/86070412-a0561900-bab7-11ea-8967-ff988075f58d.gif)
 
+![ezgif com-resize (7)](https://user-images.githubusercontent.com/45388041/86070579-0c388180-bab8-11ea-9276-86c8950c5eed.gif)
 
