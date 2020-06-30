@@ -1,5 +1,7 @@
 # projectLuda
 
+청강대 졸업작품 프로젝트 1학기 결과물입니다.(2019.3~6)
+
 https://www.youtube.com/watch?v=wBxIviw9wn0
 
 Game Image
